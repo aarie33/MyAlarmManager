@@ -1,0 +1,4 @@
+#Thu Dec 13 11:29:17 ICT 2018
+base.0=C\:\\AndroidProject\\MyAlarmManager\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+path.0=classes.dex
+renamed.0=classes.dex
